@@ -1,0 +1,15 @@
+amqp
+anyjson
+billiard
+celery
+certifi
+chardet
+django-cors-headers
+idna
+kombu
+psycopg2-binary
+pytz
+redis
+requests
+sqlparse
+urllib3
